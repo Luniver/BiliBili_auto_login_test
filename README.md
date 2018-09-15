@@ -1,2 +1,2 @@
 # collection
-study code for test
+python study code
